@@ -1,0 +1,1 @@
+The Tic-Tac-Toe Project is from the Odin Project's JavaScript course. The aim for this is to create a game of tic-tac-toe using a HTML and CSS display and design along with JavaScript functionality with a goal of having most of the code confined outside of the global scope and within factories. 
